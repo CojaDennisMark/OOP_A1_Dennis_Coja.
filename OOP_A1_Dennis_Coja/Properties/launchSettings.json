@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "OOP_A1_Dennis_Coja": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
